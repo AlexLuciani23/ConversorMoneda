@@ -33,7 +33,7 @@ Este proyecto utiliza la librería Gson para parsear los datos JSON recibidos de
 Este proyecto utiliza la librería Gson para parsear los datos JSON recibidos de la API. La dependencia está gestionada a través del archivo `pom.xml`.
 
 ## Ejemplos de uso
-![Descripción de la imagen](ruta/a/la/imagen.jpg)
+![Descripción de la imagen](Conversor_moneda.jpg)
 
 
 **Ejemplo 1: Convertir dólares a pesos argentinos**
