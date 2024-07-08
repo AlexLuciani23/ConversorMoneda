@@ -23,11 +23,6 @@ Este proyecto implementa un conversor de monedas en Java que utiliza la API de [
 
 Este proyecto utiliza la librería Gson para parsear los datos JSON de la API. La dependencia está especificada en el archivo `pom.xml`.
 
-## Ejemplo de uso
-
-Aquí puedes agregar una imagen que muestre un ejemplo de cómo se utiliza el conversor de monedas. Para agregar una imagen, sigue estos pasos:
-
-1. **Sube la imagen a tu repositorio:** Puedes subir la imagen directamente a la carpeta raíz de tu repositorio en GitHub o crear una carpeta específica para imágenes.
-2. **Inserta la imagen en el README:** Utiliza la siguiente sintaxis Markdown para insertar la imagen:
+![Descripción de la imagen](Default_Genera_una_imagen_que_represente_un_conversor_de_moned_0.jpg)
 
 
